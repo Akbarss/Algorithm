@@ -1,1 +1,2 @@
 # Algorithm
+JavaScript and TypeScript
