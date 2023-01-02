@@ -1,2 +1,2 @@
-# Algorithm data-structures
+# Algorithm Data Structures
 JavaScript and TypeScript
