@@ -1,3 +1,3 @@
 # Algorithm
 JavaScript and TypeScript
-React
+React and Es6
